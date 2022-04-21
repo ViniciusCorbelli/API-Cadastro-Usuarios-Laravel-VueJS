@@ -1,0 +1,28 @@
+.nav {
+    background-color: #D0D0D0;
+}
+
+.btn-small {
+    background-color: #F58220!important;
+    margin-top: 15px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.alerta {
+    margin-top: 20px
+}
+
+.alerta li {
+    padding: 10px
+}
